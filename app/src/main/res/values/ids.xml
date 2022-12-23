@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_email" type="id" />
+    <item name="button_logout" type="id" />
+    <item name="text_fullname" type="id" />
+</resources>
